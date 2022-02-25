@@ -16,12 +16,12 @@
 bl_info = {
     "name": "UV Squares",
     "description": "UV Editor tool for reshaping selection to grid.",
-    "author": "Reslav Hollos",
-    "version": (1, 14, 1),
-    "blender": (2, 80, 0),
+    "author": "Reslav Hollos & Fork + fix: Sander KB",
+    "version": (255, 14, 1),
+    "blender": (3, 0, 0),
     "location": "UV Editor > N Panel > UV Squares",
     "category": "UV",
-    "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/UV/Uv_Squares"
+    "wiki_url": "https://archive.blender.org/wiki/index.php/Extensions:2.6/Py/Scripts/UV/Uv_Squares/"
 }
 
 from .uv_squares import *
